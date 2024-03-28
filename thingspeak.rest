@@ -1,0 +1,10 @@
+POST api.thingspeak.com/update.json
+Content-Type: application/json
+
+{
+    "api_key" : "324324U45345435",
+    "field1" : 1044,
+    "field2" : 276,
+    "field3" : 34
+}
+

@@ -1,0 +1,1802 @@
+[
+ {
+  "etunimi": "Aarne",
+  "sukunimi": "Heikkil\u00c3\u00a4",
+  "puolue": "SDP",
+  "aanimaara": 179
+ },
+ {
+  "etunimi": "Aarno",
+  "sukunimi": "Harju",
+  "puolue": "KD",
+  "aanimaara": 23
+ },
+ {
+  "etunimi": "Aaro",
+  "sukunimi": "Harjunp\u00c3\u00a4\u00c3\u00a4",
+  "puolue": "KESK",
+  "aanimaara": 371
+ },
+ {
+  "etunimi": "Aila",
+  "sukunimi": "Kivim\u00c3\u00a4ki",
+  "puolue": "KOK",
+  "aanimaara": 92
+ },
+ {
+  "etunimi": "Aino",
+  "sukunimi": "Ristim\u00c3\u00a4ki",
+  "puolue": "SDP",
+  "aanimaara": 99
+ },
+ {
+  "etunimi": "Aira",
+  "sukunimi": "Keski-Luoma",
+  "puolue": "KD",
+  "aanimaara": 70
+ },
+ {
+  "etunimi": "Airi",
+  "sukunimi": "Kattelus",
+  "puolue": "SDP",
+  "aanimaara": 103
+ },
+ {
+  "etunimi": "Aki",
+  "sukunimi": "Ylinen",
+  "puolue": "MUUT",
+  "aanimaara": 173
+ },
+ {
+  "etunimi": "Alpo",
+  "sukunimi": "Kitinoja",
+  "puolue": "KOK",
+  "aanimaara": 223
+ },
+ {
+  "etunimi": "Alpo",
+  "sukunimi": "M\u00c3\u00a4kinen",
+  "puolue": "SDP",
+  "aanimaara": 30
+ },
+ {
+  "etunimi": "Alpo",
+  "sukunimi": "Oja",
+  "puolue": "SDP",
+  "aanimaara": 5
+ },
+ {
+  "etunimi": "Anitta",
+  "sukunimi": "Takala-Secka",
+  "puolue": "SDP",
+  "aanimaara": 15
+ },
+ {
+  "etunimi": "Anna-Maija",
+  "sukunimi": "Rostamo",
+  "puolue": "KOK",
+  "aanimaara": 37
+ },
+ {
+  "etunimi": "Anne",
+  "sukunimi": "Saari",
+  "puolue": "KESK",
+  "aanimaara": 110
+ },
+ {
+  "etunimi": "Anne",
+  "sukunimi": "Kj\u00c3\u00a4ll",
+  "puolue": "KOK",
+  "aanimaara": 67
+ },
+ {
+  "etunimi": "Anne",
+  "sukunimi": "Kettula",
+  "puolue": "KOK",
+  "aanimaara": 37
+ },
+ {
+  "etunimi": "Anne",
+  "sukunimi": "Pihlajam\u00c3\u00a4ki",
+  "puolue": "KESK",
+  "aanimaara": 23
+ },
+ {
+  "etunimi": "Anne",
+  "sukunimi": "Kiviniemi",
+  "puolue": "SDP",
+  "aanimaara": 15
+ },
+ {
+  "etunimi": "Anneli",
+  "sukunimi": "Manninen",
+  "puolue": "PS",
+  "aanimaara": 253
+ },
+ {
+  "etunimi": "Anne-Mari",
+  "sukunimi": "Haapala",
+  "puolue": "MUUT",
+  "aanimaara": 265
+ },
+ {
+  "etunimi": "Annu",
+  "sukunimi": "Viljakainen",
+  "puolue": "SDP",
+  "aanimaara": 26
+ },
+ {
+  "etunimi": "Annukka",
+  "sukunimi": "Latvala",
+  "puolue": "KD",
+  "aanimaara": 60
+ },
+ {
+  "etunimi": "Antero",
+  "sukunimi": "Maunula",
+  "puolue": "KOK",
+  "aanimaara": 147
+ },
+ {
+  "etunimi": "Antti",
+  "sukunimi": "Kujala",
+  "puolue": "SDP",
+  "aanimaara": 76
+ },
+ {
+  "etunimi": "Antti",
+  "sukunimi": ",Ahonen",
+  "puolue": "SDP",
+  "aanimaara": 28
+ },
+ {
+  "etunimi": "Antti",
+  "sukunimi": "Laaksonen",
+  "puolue": "KOK",
+  "aanimaara": 21
+ },
+ {
+  "etunimi": "Antti",
+  "sukunimi": "Alasaari",
+  "puolue": "SDP",
+  "aanimaara": 10
+ },
+ {
+  "etunimi": "Anu",
+  "sukunimi": "Kohtam\u00c3\u00a4ki",
+  "puolue": "KOK",
+  "aanimaara": 142
+ },
+ {
+  "etunimi": "Anu",
+  "sukunimi": "Luhtanen",
+  "puolue": "SDP",
+  "aanimaara": 24
+ },
+ {
+  "etunimi": "Ari",
+  "sukunimi": "Saunam\u00c3\u00a4ki",
+  "puolue": "SDP",
+  "aanimaara": 47
+ },
+ {
+  "etunimi": "Ari",
+  "sukunimi": "Norolampi",
+  "puolue": "KD",
+  "aanimaara": 5
+ },
+ {
+  "etunimi": "Ari-Pekka",
+  "sukunimi": "Harju",
+  "puolue": "SDP",
+  "aanimaara": 27
+ },
+ {
+  "etunimi": "Arja",
+  "sukunimi": "Hyyti\u00c3\u00a4",
+  "puolue": "KESK",
+  "aanimaara": 187
+ },
+ {
+  "etunimi": "Arto",
+  "sukunimi": "Prusti",
+  "puolue": "KESK",
+  "aanimaara": 126
+ },
+ {
+  "etunimi": "Asko",
+  "sukunimi": "Ristim\u00c3\u00a4ki",
+  "puolue": "KESK",
+  "aanimaara": 172
+ },
+ {
+  "etunimi": "Asko",
+  "sukunimi": "Istolahti",
+  "puolue": "KESK",
+  "aanimaara": 154
+ },
+ {
+  "etunimi": "Asko",
+  "sukunimi": "Salo",
+  "puolue": "PS",
+  "aanimaara": 60
+ },
+ {
+  "etunimi": "Eija",
+  "sukunimi": "Sippola",
+  "puolue": "KESK",
+  "aanimaara": 105
+ },
+ {
+  "etunimi": "Eija",
+  "sukunimi": "Kiikeri",
+  "puolue": "SDP",
+  "aanimaara": 33
+ },
+ {
+  "etunimi": "Eija",
+  "sukunimi": "K\u00c3\u00a4ykk\u00c3\u00a4",
+  "puolue": "KD",
+  "aanimaara": 32
+ },
+ {
+  "etunimi": "Eino",
+  "sukunimi": "Koivula",
+  "puolue": "PS",
+  "aanimaara": 30
+ },
+ {
+  "etunimi": "Eino",
+  "sukunimi": "Kujanp\u00c3\u00a4\u00c3\u00a4",
+  "puolue": "PS",
+  "aanimaara": 26
+ },
+ {
+  "etunimi": "Elina",
+  "sukunimi": "Jouppila",
+  "puolue": "KOK",
+  "aanimaara": 35
+ },
+ {
+  "etunimi": "Elina",
+  "sukunimi": "Pohjolainen",
+  "puolue": "SDP",
+  "aanimaara": 4
+ },
+ {
+  "etunimi": "Elisa",
+  "sukunimi": "M\u00c3\u00a4kynen",
+  "puolue": "SDP",
+  "aanimaara": 25
+ },
+ {
+  "etunimi": "Emilia",
+  "sukunimi": "Suokko",
+  "puolue": "KOK",
+  "aanimaara": 48
+ },
+ {
+  "etunimi": "Emilia",
+  "sukunimi": "Turpela",
+  "puolue": "KESK",
+  "aanimaara": 19
+ },
+ {
+  "etunimi": "Erkki",
+  "sukunimi": "Honkala",
+  "puolue": "KOK",
+  "aanimaara": 145
+ },
+ {
+  "etunimi": "Erkki",
+  "sukunimi": "Latvala",
+  "puolue": "PS",
+  "aanimaara": 59
+ },
+ {
+  "etunimi": "Erkki",
+  "sukunimi": "Saari",
+  "puolue": "KESK",
+  "aanimaara": 34
+ },
+ {
+  "etunimi": "Erkki",
+  "sukunimi": "M\u00c3\u00a4kel\u00c3\u00a4",
+  "puolue": "SDP",
+  "aanimaara": 18
+ },
+ {
+  "etunimi": "Erkki",
+  "sukunimi": "Myllyniemi",
+  "puolue": "VAS",
+  "aanimaara": 28
+ },
+ {
+  "etunimi": "Esa",
+  "sukunimi": "Perttu",
+  "puolue": "KOK",
+  "aanimaara": 143
+ },
+ {
+  "etunimi": "Hanna",
+  "sukunimi": "M\u00c3\u00a4kynen",
+  "puolue": "KESK",
+  "aanimaara": 171
+ },
+ {
+  "etunimi": "Hanna",
+  "sukunimi": "Hautala",
+  "puolue": "KOK",
+  "aanimaara": 112
+ },
+ {
+  "etunimi": "Hanna",
+  "sukunimi": "Pohto",
+  "puolue": "KOK",
+  "aanimaara": 68
+ },
+ {
+  "etunimi": "Hanna-Leena",
+  "sukunimi": "Saarela",
+  "puolue": "SDP",
+  "aanimaara": 22
+ },
+ {
+  "etunimi": "Hanne",
+  "sukunimi": "Ruokonen",
+  "puolue": "KESK",
+  "aanimaara": 71
+ },
+ {
+  "etunimi": "Hannele",
+  "sukunimi": "Knaapila",
+  "puolue": "KESK",
+  "aanimaara": 11
+ },
+ {
+  "etunimi": "Hannu",
+  "sukunimi": "Haapasalmi",
+  "puolue": "PS",
+  "aanimaara": 187
+ },
+ {
+  "etunimi": "Hannu",
+  "sukunimi": "Koskinen",
+  "puolue": "SDP",
+  "aanimaara": 23
+ },
+ {
+  "etunimi": "Harri",
+  "sukunimi": "Rajakorpi",
+  "puolue": "KESK",
+  "aanimaara": 169
+ },
+ {
+  "etunimi": "Harri",
+  "sukunimi": "Haapam\u00c3\u00a4ki",
+  "puolue": "KESK",
+  "aanimaara": 68
+ },
+ {
+  "etunimi": "Harri",
+  "sukunimi": "Koivula",
+  "puolue": "PS",
+  "aanimaara": 19
+ },
+ {
+  "etunimi": "Harry",
+  "sukunimi": "Wallin",
+  "puolue": "SDP",
+  "aanimaara": 287
+ },
+ {
+  "etunimi": "Heidi",
+  "sukunimi": "Keisala",
+  "puolue": "MUUT",
+  "aanimaara": 12
+ },
+ {
+  "etunimi": "Heikki",
+  "sukunimi": "Keskinen",
+  "puolue": "KOK",
+  "aanimaara": 179
+ },
+ {
+  "etunimi": "Heikki",
+  "sukunimi": "Ylinen",
+  "puolue": "KESK",
+  "aanimaara": 59
+ },
+ {
+  "etunimi": "Helena",
+  "sukunimi": "Koivusaari",
+  "puolue": "SDP",
+  "aanimaara": 164
+ },
+ {
+  "etunimi": "Helena",
+  "sukunimi": "Haapam\u00c3\u00a4ki",
+  "puolue": "KESK",
+  "aanimaara": 19
+ },
+ {
+  "etunimi": "Heli",
+  "sukunimi": "Lanam\u00c3\u00a4ki",
+  "puolue": "KESK",
+  "aanimaara": 64
+ },
+ {
+  "etunimi": "Heli-Maarit",
+  "sukunimi": "Jaskari",
+  "puolue": "KESK",
+  "aanimaara": 166
+ },
+ {
+  "etunimi": "Henna",
+  "sukunimi": "Harsia",
+  "puolue": "VIHR",
+  "aanimaara": 166
+ },
+ {
+  "etunimi": "Iikka",
+  "sukunimi": "L\u00c3\u00a4ytty",
+  "puolue": "KD",
+  "aanimaara": 18
+ },
+ {
+  "etunimi": "Iisakki",
+  "sukunimi": "Juupaluoma",
+  "puolue": "PS",
+  "aanimaara": 42
+ },
+ {
+  "etunimi": "Ilkka",
+  "sukunimi": "M\u00c3\u00a4kel\u00c3\u00a4",
+  "puolue": "KESK",
+  "aanimaara": 116
+ },
+ {
+  "etunimi": "Ilmari",
+  "sukunimi": "Yl\u00c3\u00a4-Autio",
+  "puolue": "KOK",
+  "aanimaara": 178
+ },
+ {
+  "etunimi": "Ilpo",
+  "sukunimi": "Vierula",
+  "puolue": "VAS",
+  "aanimaara": 30
+ },
+ {
+  "etunimi": "Irene",
+  "sukunimi": "Turenius",
+  "puolue": "KESK",
+  "aanimaara": 440
+ },
+ {
+  "etunimi": "Irma",
+  "sukunimi": "Jaakkola",
+  "puolue": "KOK",
+  "aanimaara": 26
+ },
+ {
+  "etunimi": "Ismo",
+  "sukunimi": "Heikkil\u00c3\u00a4",
+  "puolue": "KESK",
+  "aanimaara": 30
+ },
+ {
+  "etunimi": "Jaakko",
+  "sukunimi": "Lepist\u00c3\u00a4",
+  "puolue": "SDP",
+  "aanimaara": 352
+ },
+ {
+  "etunimi": "Jaakko",
+  "sukunimi": "Lammi",
+  "puolue": "KOK",
+  "aanimaara": 120
+ },
+ {
+  "etunimi": "Jaakko",
+  "sukunimi": "Ristim\u00c3\u00a4ki",
+  "puolue": "KOK",
+  "aanimaara": 34
+ },
+ {
+  "etunimi": "Jaana",
+  "sukunimi": "Olli",
+  "puolue": "KOK",
+  "aanimaara": 74
+ },
+ {
+  "etunimi": "Jaana",
+  "sukunimi": "Marjanen",
+  "puolue": "MUUT",
+  "aanimaara": 30
+ },
+ {
+  "etunimi": "Jani",
+  "sukunimi": "M\u00c3\u00a4ki-Maunus",
+  "puolue": "SDP",
+  "aanimaara": 26
+ },
+ {
+  "etunimi": "Jari",
+  "sukunimi": "Oravasaari",
+  "puolue": "SDP",
+  "aanimaara": 39
+ },
+ {
+  "etunimi": "Jari",
+  "sukunimi": "Ringman",
+  "puolue": "SDP",
+  "aanimaara": 27
+ },
+ {
+  "etunimi": "Jari-Matti",
+  "sukunimi": "Lintala",
+  "puolue": "SDP",
+  "aanimaara": 47
+ },
+ {
+  "etunimi": "Jarkko",
+  "sukunimi": "Tenkula",
+  "puolue": "SDP",
+  "aanimaara": 70
+ },
+ {
+  "etunimi": "Jarkko",
+  "sukunimi": "Kataja",
+  "puolue": "VAS",
+  "aanimaara": 4
+ },
+ {
+  "etunimi": "Jarmo",
+  "sukunimi": "Korhonen",
+  "puolue": "KESK",
+  "aanimaara": 234
+ },
+ {
+  "etunimi": "Jarmo",
+  "sukunimi": "Lamminm\u00c3\u00a4ki",
+  "puolue": "KOK",
+  "aanimaara": 114
+ },
+ {
+  "etunimi": "Jarmo",
+  "sukunimi": "Rautiainen",
+  "puolue": "SDP",
+  "aanimaara": 71
+ },
+ {
+  "etunimi": "Joanna",
+  "sukunimi": "Juurakko",
+  "puolue": "SDP",
+  "aanimaara": 112
+ },
+ {
+  "etunimi": "Johanna",
+  "sukunimi": "Paavola",
+  "puolue": "KESK",
+  "aanimaara": 32
+ },
+ {
+  "etunimi": "Jorma",
+  "sukunimi": "Kivim\u00c3\u00a4ki",
+  "puolue": "KESK",
+  "aanimaara": 319
+ },
+ {
+  "etunimi": "Jorma",
+  "sukunimi": "Aro",
+  "puolue": "KESK",
+  "aanimaara": 27
+ },
+ {
+  "etunimi": "Jorma",
+  "sukunimi": "Uitto",
+  "puolue": "VAS",
+  "aanimaara": 45
+ },
+ {
+  "etunimi": "Jorma",
+  "sukunimi": "Unhola",
+  "puolue": "PS",
+  "aanimaara": 17
+ },
+ {
+  "etunimi": "Jouko",
+  "sukunimi": "Peltonen",
+  "puolue": "MUUT",
+  "aanimaara": 106
+ },
+ {
+  "etunimi": "Jouko",
+  "sukunimi": "Niemi",
+  "puolue": "KOK",
+  "aanimaara": 70
+ },
+ {
+  "etunimi": "Jouko",
+  "sukunimi": "Pitk\u00c3\u00a4ranta",
+  "puolue": "KD",
+  "aanimaara": 26
+ },
+ {
+  "etunimi": "Jouni",
+  "sukunimi": "Jouppila",
+  "puolue": "VIHR",
+  "aanimaara": 75
+ },
+ {
+  "etunimi": "Juha",
+  "sukunimi": "Konttas",
+  "puolue": "KESK",
+  "aanimaara": 240
+ },
+ {
+  "etunimi": "Juha",
+  "sukunimi": "Koivisto",
+  "puolue": "VIHR",
+  "aanimaara": 189
+ },
+ {
+  "etunimi": "Juha",
+  "sukunimi": "Poutanen",
+  "puolue": "PS",
+  "aanimaara": 103
+ },
+ {
+  "etunimi": "Juha",
+  "sukunimi": "Mikkonen",
+  "puolue": "KESK",
+  "aanimaara": 64
+ },
+ {
+  "etunimi": "Juha",
+  "sukunimi": "Katila",
+  "puolue": "KOK",
+  "aanimaara": 35
+ },
+ {
+  "etunimi": "Juha",
+  "sukunimi": "Tuomikoski",
+  "puolue": "KESK",
+  "aanimaara": 33
+ },
+ {
+  "etunimi": "Juha",
+  "sukunimi": "Hiipakka",
+  "puolue": "KESK",
+  "aanimaara": 29
+ },
+ {
+  "etunimi": "Juha",
+  "sukunimi": "Neulaniemi",
+  "puolue": "KOK",
+  "aanimaara": 3
+ },
+ {
+  "etunimi": "Juha",
+  "sukunimi": "Kingelin",
+  "puolue": "VIHR",
+  "aanimaara": 25
+ },
+ {
+  "etunimi": "Juha",
+  "sukunimi": "Lindell",
+  "puolue": "VAS",
+  "aanimaara": 8
+ },
+ {
+  "etunimi": "Juha",
+  "sukunimi": "P\u00c3\u00a4iv\u00c3\u00a4niemi",
+  "puolue": "KTP",
+  "aanimaara": 19
+ },
+ {
+  "etunimi": "Juhani",
+  "sukunimi": "Hakala",
+  "puolue": "KESK",
+  "aanimaara": 173
+ },
+ {
+  "etunimi": "Juhani",
+  "sukunimi": "Kukkasela",
+  "puolue": "KOK",
+  "aanimaara": 114
+ },
+ {
+  "etunimi": "Jukka",
+  "sukunimi": "Vihri\u00c3\u00a4l\u00c3\u00a4",
+  "puolue": "KESK",
+  "aanimaara": 399
+ },
+ {
+  "etunimi": "Jukka",
+  "sukunimi": "Hakala",
+  "puolue": "SDP",
+  "aanimaara": 41
+ },
+ {
+  "etunimi": "Jukka",
+  "sukunimi": "Saarim\u00c3\u00a4ki",
+  "puolue": "KESK",
+  "aanimaara": 58
+ },
+ {
+  "etunimi": "Jukka",
+  "sukunimi": "Sariola",
+  "puolue": "KD",
+  "aanimaara": 46
+ },
+ {
+  "etunimi": "Jukka",
+  "sukunimi": "Kyt\u00c3\u00a4m\u00c3\u00a4ki",
+  "puolue": "SDP",
+  "aanimaara": 18
+ },
+ {
+  "etunimi": "Jukka-Pekka",
+  "sukunimi": "Huhtala",
+  "puolue": "SDP",
+  "aanimaara": 30
+ },
+ {
+  "etunimi": "Julio",
+  "sukunimi": "Vallejo-Medina",
+  "puolue": "KOK",
+  "aanimaara": 51
+ },
+ {
+  "etunimi": "Jussi",
+  "sukunimi": "Alasalmi",
+  "puolue": "KOK",
+  "aanimaara": 147
+ },
+ {
+  "etunimi": "Jussi",
+  "sukunimi": "Asu",
+  "puolue": "KESK",
+  "aanimaara": 43
+ },
+ {
+  "etunimi": "Jyrki",
+  "sukunimi": "M\u00c3\u00a4kynen",
+  "puolue": "KOK",
+  "aanimaara": 150
+ },
+ {
+  "etunimi": "Jyrki",
+  "sukunimi": "Sauram\u00c3\u00a4ki",
+  "puolue": "KOK",
+  "aanimaara": 48
+ },
+ {
+  "etunimi": "Jyrki",
+  "sukunimi": "It\u00c3\u00a4salmi",
+  "puolue": "KD",
+  "aanimaara": 34
+ },
+ {
+  "etunimi": "Kaarle",
+  "sukunimi": "Talvitie",
+  "puolue": "SDP",
+  "aanimaara": 17
+ },
+ {
+  "etunimi": "Kai",
+  "sukunimi": "It\u00c3\u00a4niemi",
+  "puolue": "PS",
+  "aanimaara": 62
+ },
+ {
+  "etunimi": "Kaija",
+  "sukunimi": "Toppari",
+  "puolue": "KOK",
+  "aanimaara": 95
+ },
+ {
+  "etunimi": "Kaija",
+  "sukunimi": "Ilvessaari",
+  "puolue": "KOK",
+  "aanimaara": 16
+ },
+ {
+  "etunimi": "Kaija",
+  "sukunimi": "Hauta-aho",
+  "puolue": "KOK",
+  "aanimaara": 15
+ },
+ {
+  "etunimi": "Kaija",
+  "sukunimi": "Eilola",
+  "puolue": "KD",
+  "aanimaara": 35
+ },
+ {
+  "etunimi": "Kaj",
+  "sukunimi": "Hauta-aho",
+  "puolue": "KD",
+  "aanimaara": 41
+ },
+ {
+  "etunimi": "Kalle",
+  "sukunimi": "Keskinen",
+  "puolue": "KOK",
+  "aanimaara": 192
+ },
+ {
+  "etunimi": "Kalle",
+  "sukunimi": "Ranta-aho",
+  "puolue": "KOK",
+  "aanimaara": 37
+ },
+ {
+  "etunimi": "Kari",
+  "sukunimi": "Homi",
+  "puolue": "KESK",
+  "aanimaara": 265
+ },
+ {
+  "etunimi": "Kari",
+  "sukunimi": "Hokkanen",
+  "puolue": "KESK",
+  "aanimaara": 212
+ },
+ {
+  "etunimi": "Kari",
+  "sukunimi": "M\u00c3\u00a4kel\u00c3\u00a4",
+  "puolue": "KOK",
+  "aanimaara": 89
+ },
+ {
+  "etunimi": "Kati",
+  "sukunimi": "Nummensalo",
+  "puolue": "KD",
+  "aanimaara": 169
+ },
+ {
+  "etunimi": "Kati",
+  "sukunimi": "Ojaniemi",
+  "puolue": "KESK",
+  "aanimaara": 144
+ },
+ {
+  "etunimi": "Keijo",
+  "sukunimi": "Aukeala",
+  "puolue": "KESK",
+  "aanimaara": 11
+ },
+ {
+  "etunimi": "Kimmo",
+  "sukunimi": "Heinonen",
+  "puolue": "KOK",
+  "aanimaara": 337
+ },
+ {
+  "etunimi": "Kimmo",
+  "sukunimi": "Rantanen",
+  "puolue": "KD",
+  "aanimaara": 121
+ },
+ {
+  "etunimi": "Kirsi",
+  "sukunimi": "Haapala",
+  "puolue": "VIHR",
+  "aanimaara": 132
+ },
+ {
+  "etunimi": "Kirsi-Maria",
+  "sukunimi": "Hautala",
+  "puolue": "KOK",
+  "aanimaara": 72
+ },
+ {
+  "etunimi": "Kirsti",
+  "sukunimi": "Haapala",
+  "puolue": "SDP",
+  "aanimaara": 55
+ },
+ {
+  "etunimi": "Kirsti",
+  "sukunimi": "Kontturi",
+  "puolue": "SDP",
+  "aanimaara": 8
+ },
+ {
+  "etunimi": "Lea",
+  "sukunimi": "Saarinen",
+  "puolue": "KESK",
+  "aanimaara": 46
+ },
+ {
+  "etunimi": "Lea",
+  "sukunimi": "Sippola",
+  "puolue": "VAS",
+  "aanimaara": 52
+ },
+ {
+  "etunimi": "Leena",
+  "sukunimi": "Riikil\u00c3\u00a4",
+  "puolue": "SDP",
+  "aanimaara": 188
+ },
+ {
+  "etunimi": "Leena",
+  "sukunimi": "Sj\u00c3\u00a4stedt",
+  "puolue": "KOK",
+  "aanimaara": 86
+ },
+ {
+  "etunimi": "Leena",
+  "sukunimi": "Saarinen",
+  "puolue": "SDP",
+  "aanimaara": 23
+ },
+ {
+  "etunimi": "Liisa",
+  "sukunimi": "L\u00c3\u00a4hdesm\u00c3\u00a4ki",
+  "puolue": "KOK",
+  "aanimaara": 79
+ },
+ {
+  "etunimi": "Liisa",
+  "sukunimi": "Hamm",
+  "puolue": "KD",
+  "aanimaara": 76
+ },
+ {
+  "etunimi": "Liisa",
+  "sukunimi": "Lintala",
+  "puolue": "KESK",
+  "aanimaara": 74
+ },
+ {
+  "etunimi": "Maarit",
+  "sukunimi": "Vinni",
+  "puolue": "KOK",
+  "aanimaara": 31
+ },
+ {
+  "etunimi": "Maire",
+  "sukunimi": "M\u00c3\u00a4ki-Valkama",
+  "puolue": "SDP",
+  "aanimaara": 63
+ },
+ {
+  "etunimi": "Maire",
+  "sukunimi": "Valli",
+  "puolue": "KOK",
+  "aanimaara": 10
+ },
+ {
+  "etunimi": "Mari",
+  "sukunimi": "Kela",
+  "puolue": "MUUT",
+  "aanimaara": 83
+ },
+ {
+  "etunimi": "Marianne",
+  "sukunimi": "M\u00c3\u00a4ki-Jouppi",
+  "puolue": "KESK",
+  "aanimaara": 42
+ },
+ {
+  "etunimi": "Marja-Leena",
+  "sukunimi": "Saari",
+  "puolue": "SDP",
+  "aanimaara": 115
+ },
+ {
+  "etunimi": "Marja-Leena",
+  "sukunimi": "Kurhela",
+  "puolue": "KESK",
+  "aanimaara": 73
+ },
+ {
+  "etunimi": "Marja-Liisa",
+  "sukunimi": "Niemel\u00c3\u00a4",
+  "puolue": "SDP",
+  "aanimaara": 19
+ },
+ {
+  "etunimi": "Marja-Riitta",
+  "sukunimi": "Rintam\u00c3\u00a4ki",
+  "puolue": "KOK",
+  "aanimaara": 18
+ },
+ {
+  "etunimi": "Marjo",
+  "sukunimi": "Saranp\u00c3\u00a4\u00c3\u00a4",
+  "puolue": "SDP",
+  "aanimaara": 32
+ },
+ {
+  "etunimi": "Marjo",
+  "sukunimi": "Kulmala",
+  "puolue": "SDP",
+  "aanimaara": 21
+ },
+ {
+  "etunimi": "Markku",
+  "sukunimi": "Tuppurainen",
+  "puolue": "KESK",
+  "aanimaara": 419
+ },
+ {
+  "etunimi": "Markku",
+  "sukunimi": "Lahtinen",
+  "puolue": "KESK",
+  "aanimaara": 215
+ },
+ {
+  "etunimi": "Markku",
+  "sukunimi": "V\u00c3\u00a4h\u00c3\u00a4-Koivisto",
+  "puolue": "SDP",
+  "aanimaara": 139
+ },
+ {
+  "etunimi": "Markku",
+  "sukunimi": "Rintam\u00c3\u00a4ki",
+  "puolue": "KOK",
+  "aanimaara": 153
+ },
+ {
+  "etunimi": "Markku",
+  "sukunimi": "Lehtola",
+  "puolue": "SDP",
+  "aanimaara": 94
+ },
+ {
+  "etunimi": "Markku",
+  "sukunimi": "Saari",
+  "puolue": "KESK",
+  "aanimaara": 71
+ },
+ {
+  "etunimi": "Markku",
+  "sukunimi": "Kuusela",
+  "puolue": "KESK",
+  "aanimaara": 57
+ },
+ {
+  "etunimi": "Markku",
+  "sukunimi": "Auramo",
+  "puolue": "PS",
+  "aanimaara": 20
+ },
+ {
+  "etunimi": "Markku",
+  "sukunimi": "Latvala",
+  "puolue": "VAS",
+  "aanimaara": 27
+ },
+ {
+  "etunimi": "Marko",
+  "sukunimi": "Siltam\u00c3\u00a4ki",
+  "puolue": "KOK",
+  "aanimaara": 28
+ },
+ {
+  "etunimi": "Markus",
+  "sukunimi": "Aaltonen",
+  "puolue": "SDP",
+  "aanimaara": 116
+ },
+ {
+  "etunimi": "Martti",
+  "sukunimi": "Pajulammi",
+  "puolue": "KESK",
+  "aanimaara": 159
+ },
+ {
+  "etunimi": "Martti",
+  "sukunimi": "Meskanen",
+  "puolue": "SDP",
+  "aanimaara": 38
+ },
+ {
+  "etunimi": "Martti",
+  "sukunimi": "Takam\u00c3\u00a4ki",
+  "puolue": "SDP",
+  "aanimaara": 16
+ },
+ {
+  "etunimi": "Matti",
+  "sukunimi": "Kuvaja",
+  "puolue": "KOK",
+  "aanimaara": 172
+ },
+ {
+  "etunimi": "Matti",
+  "sukunimi": "Vuorinen",
+  "puolue": "SDP",
+  "aanimaara": 48
+ },
+ {
+  "etunimi": "Mauno",
+  "sukunimi": "Hietam\u00c3\u00a4ki",
+  "puolue": "SDP",
+  "aanimaara": 42
+ },
+ {
+  "etunimi": "Mauri",
+  "sukunimi": "Ojala",
+  "puolue": "PS",
+  "aanimaara": 82
+ },
+ {
+  "etunimi": "Merja",
+  "sukunimi": "Korpela",
+  "puolue": "KESK",
+  "aanimaara": 78
+ },
+ {
+  "etunimi": "Merja",
+  "sukunimi": "Suvisalmi",
+  "puolue": "VIHR",
+  "aanimaara": 32
+ },
+ {
+  "etunimi": "Merja",
+  "sukunimi": "Marjeta",
+  "puolue": "KD",
+  "aanimaara": 26
+ },
+ {
+  "etunimi": "Mervi",
+  "sukunimi": "M\u00c3\u00a4enp\u00c3\u00a4\u00c3\u00a4",
+  "puolue": "KESK",
+  "aanimaara": 162
+ },
+ {
+  "etunimi": "Miia",
+  "sukunimi": "Eskelinen-Fingerroos",
+  "puolue": "KOK",
+  "aanimaara": 50
+ },
+ {
+  "etunimi": "Mika",
+  "sukunimi": "Soivio",
+  "puolue": "KOK",
+  "aanimaara": 64
+ },
+ {
+  "etunimi": "Mika",
+  "sukunimi": "Virkkala",
+  "puolue": "KESK",
+  "aanimaara": 26
+ },
+ {
+  "etunimi": "Mika",
+  "sukunimi": "Ylim\u00c3\u00a4ki",
+  "puolue": "VAS",
+  "aanimaara": 20
+ },
+ {
+  "etunimi": "Mikael",
+  "sukunimi": "Luotola",
+  "puolue": "KESK",
+  "aanimaara": 212
+ },
+ {
+  "etunimi": "Mikko",
+  "sukunimi": "Ala-Lahti",
+  "puolue": "KOK",
+  "aanimaara": 296
+ },
+ {
+  "etunimi": "Mikko",
+  "sukunimi": "Viinikka",
+  "puolue": "KOK",
+  "aanimaara": 82
+ },
+ {
+  "etunimi": "Mikko",
+  "sukunimi": "Latom\u00c3\u00a4ki",
+  "puolue": "KOK",
+  "aanimaara": 66
+ },
+ {
+  "etunimi": "Milla",
+  "sukunimi": "Hautala",
+  "puolue": "KESK",
+  "aanimaara": 91
+ },
+ {
+  "etunimi": "Minna",
+  "sukunimi": "Julmala",
+  "puolue": "KESK",
+  "aanimaara": 227
+ },
+ {
+  "etunimi": "Minna",
+  "sukunimi": "Rasinp\u00c3\u00a4\u00c3\u00a4",
+  "puolue": "SDP",
+  "aanimaara": 28
+ },
+ {
+  "etunimi": "Minna",
+  "sukunimi": "Peltonen",
+  "puolue": "KD",
+  "aanimaara": 23
+ },
+ {
+  "etunimi": "Mirja",
+  "sukunimi": "Korpinen",
+  "puolue": "VAS",
+  "aanimaara": 33
+ },
+ {
+  "etunimi": "Niina",
+  "sukunimi": "Koskipalo",
+  "puolue": "KOK",
+  "aanimaara": 21
+ },
+ {
+  "etunimi": "Oskari",
+  "sukunimi": "Riihioja",
+  "puolue": "SDP",
+  "aanimaara": 37
+ },
+ {
+  "etunimi": "Oskari",
+  "sukunimi": "Haanp\u00c3\u00a4\u00c3\u00a4",
+  "puolue": "SDP",
+  "aanimaara": 6
+ },
+ {
+  "etunimi": "Paavo",
+  "sukunimi": "Eloniemi",
+  "puolue": "KESK",
+  "aanimaara": 170
+ },
+ {
+  "etunimi": "Paavo",
+  "sukunimi": "Lehto",
+  "puolue": "SDP",
+  "aanimaara": 5
+ },
+ {
+  "etunimi": "Paula",
+  "sukunimi": "Risikko",
+  "puolue": "KOK",
+  "aanimaara": 457
+ },
+ {
+  "etunimi": "Paula",
+  "sukunimi": "Kari",
+  "puolue": "KOK",
+  "aanimaara": 36
+ },
+ {
+  "etunimi": "Pekka",
+  "sukunimi": "Kangasluoma",
+  "puolue": "SDP",
+  "aanimaara": 34
+ },
+ {
+  "etunimi": "Pekka",
+  "sukunimi": "Ahtola",
+  "puolue": "KOK",
+  "aanimaara": 46
+ },
+ {
+  "etunimi": "Pentti",
+  "sukunimi": "Taipalus",
+  "puolue": "KD",
+  "aanimaara": 108
+ },
+ {
+  "etunimi": "Pentti",
+  "sukunimi": "Kallio",
+  "puolue": "SDP",
+  "aanimaara": 26
+ },
+ {
+  "etunimi": "Pentti",
+  "sukunimi": "Pohjola",
+  "puolue": "SDP",
+  "aanimaara": 25
+ },
+ {
+  "etunimi": "Pentti",
+  "sukunimi": "Kangasmaa",
+  "puolue": "PS",
+  "aanimaara": 28
+ },
+ {
+  "etunimi": "Pertti",
+  "sukunimi": "M\u00c3\u00a4ki-Hakola",
+  "puolue": "KOK",
+  "aanimaara": 488
+ },
+ {
+  "etunimi": "Pia",
+  "sukunimi": "V\u00c3\u00a4h\u00c3\u00a4maa",
+  "puolue": "KD",
+  "aanimaara": 35
+ },
+ {
+  "etunimi": "Pirjo",
+  "sukunimi": "Aittoniemi",
+  "puolue": "KESK",
+  "aanimaara": 280
+ },
+ {
+  "etunimi": "Pirjo",
+  "sukunimi": "Nuolikoski",
+  "puolue": "SDP",
+  "aanimaara": 80
+ },
+ {
+  "etunimi": "Pirkko",
+  "sukunimi": "Ekoluoma",
+  "puolue": "KESK",
+  "aanimaara": 92
+ },
+ {
+  "etunimi": "Pirkko-Liisa",
+  "sukunimi": "Utter",
+  "puolue": "KESK",
+  "aanimaara": 9
+ },
+ {
+  "etunimi": "P\u00c3\u00a4ivi",
+  "sukunimi": "Katajam\u00c3\u00a4ki",
+  "puolue": "KOK",
+  "aanimaara": 24
+ },
+ {
+  "etunimi": "Raija",
+  "sukunimi": "Palo",
+  "puolue": "KESK",
+  "aanimaara": 129
+ },
+ {
+  "etunimi": "Raija",
+  "sukunimi": "Luikku",
+  "puolue": "SDP",
+  "aanimaara": 15
+ },
+ {
+  "etunimi": "Raili",
+  "sukunimi": "Peltonen",
+  "puolue": "KOK",
+  "aanimaara": 33
+ },
+ {
+  "etunimi": "Raimo",
+  "sukunimi": "Ristil\u00c3\u00a4",
+  "puolue": "KOK",
+  "aanimaara": 468
+ },
+ {
+  "etunimi": "Raimo",
+  "sukunimi": "M\u00c3\u00a4ki-Jaskari",
+  "puolue": "KOK",
+  "aanimaara": 158
+ },
+ {
+  "etunimi": "Raimo",
+  "sukunimi": "H\u00c3\u00a4m\u00c3\u00a4l\u00c3\u00a4inen",
+  "puolue": "KOK",
+  "aanimaara": 75
+ },
+ {
+  "etunimi": "Raimo",
+  "sukunimi": "Hautala",
+  "puolue": "KOK",
+  "aanimaara": 72
+ },
+ {
+  "etunimi": "Raisa",
+  "sukunimi": "Kurhela",
+  "puolue": "KESK",
+  "aanimaara": 70
+ },
+ {
+  "etunimi": "Rauha",
+  "sukunimi": "Maijala",
+  "puolue": "KOK",
+  "aanimaara": 22
+ },
+ {
+  "etunimi": "Reijo",
+  "sukunimi": "Niemel\u00c3\u00a4",
+  "puolue": "VAS",
+  "aanimaara": 140
+ },
+ {
+  "etunimi": "Reijo",
+  "sukunimi": "Syrj\u00c3\u00a4",
+  "puolue": "KOK",
+  "aanimaara": 112
+ },
+ {
+  "etunimi": "Reijo",
+  "sukunimi": "Pitk\u00c3\u00a4koski",
+  "puolue": "KOK",
+  "aanimaara": 30
+ },
+ {
+  "etunimi": "Reino",
+  "sukunimi": "Virrankoski",
+  "puolue": "KESK",
+  "aanimaara": 55
+ },
+ {
+  "etunimi": "Riitta",
+  "sukunimi": "Lehtola",
+  "puolue": "SDP",
+  "aanimaara": 204
+ },
+ {
+  "etunimi": "Riitta",
+  "sukunimi": "Miilum\u00c3\u00a4ki",
+  "puolue": "KESK",
+  "aanimaara": 79
+ },
+ {
+  "etunimi": "Riittaliisa",
+  "sukunimi": "Sikkil\u00c3\u00a4",
+  "puolue": "SDP",
+  "aanimaara": 31
+ },
+ {
+  "etunimi": "Risto",
+  "sukunimi": "Iskala",
+  "puolue": "KOK",
+  "aanimaara": 70
+ },
+ {
+  "etunimi": "Risto",
+  "sukunimi": "Lauhanen",
+  "puolue": "KOK",
+  "aanimaara": 35
+ },
+ {
+  "etunimi": "Risto",
+  "sukunimi": "Rutanen",
+  "puolue": "SDP",
+  "aanimaara": 7
+ },
+ {
+  "etunimi": "Ritva",
+  "sukunimi": "V\u00c3\u00a4sti",
+  "puolue": "MUUT",
+  "aanimaara": 143
+ },
+ {
+  "etunimi": "Ritva",
+  "sukunimi": "Melender",
+  "puolue": "KESK",
+  "aanimaara": 69
+ },
+ {
+  "etunimi": "Rosa",
+  "sukunimi": "Arola",
+  "puolue": "KD",
+  "aanimaara": 7
+ },
+ {
+  "etunimi": "Saija",
+  "sukunimi": "Tiirikainen",
+  "puolue": "KESK",
+  "aanimaara": 22
+ },
+ {
+  "etunimi": "Sakari",
+  "sukunimi": "Saari",
+  "puolue": "KD",
+  "aanimaara": 57
+ },
+ {
+  "etunimi": "Salme",
+  "sukunimi": "Sandvik",
+  "puolue": "SDP",
+  "aanimaara": 22
+ },
+ {
+  "etunimi": "Sami",
+  "sukunimi": "Eerola",
+  "puolue": "MUUT",
+  "aanimaara": 31
+ },
+ {
+  "etunimi": "Sanna",
+  "sukunimi": "Kivilahti",
+  "puolue": "KESK",
+  "aanimaara": 40
+ },
+ {
+  "etunimi": "Sara",
+  "sukunimi": "Honkaniemi",
+  "puolue": "SDP",
+  "aanimaara": 17
+ },
+ {
+  "etunimi": "Sari",
+  "sukunimi": "Mattila",
+  "puolue": "SDP",
+  "aanimaara": 27
+ },
+ {
+  "etunimi": "Sari",
+  "sukunimi": "Pitk\u00c3\u00a4m\u00c3\u00a4ki",
+  "puolue": "KD",
+  "aanimaara": 35
+ },
+ {
+  "etunimi": "Satu",
+  "sukunimi": "Hirvonen-Auru",
+  "puolue": "MUUT",
+  "aanimaara": 37
+ },
+ {
+  "etunimi": "Sauli",
+  "sukunimi": "Majaharju",
+  "puolue": "VAS",
+  "aanimaara": 62
+ },
+ {
+  "etunimi": "Seppo",
+  "sukunimi": "Perki\u00c3\u00a4",
+  "puolue": "SDP",
+  "aanimaara": 360
+ },
+ {
+  "etunimi": "Seppo",
+  "sukunimi": "Lampi",
+  "puolue": "KD",
+  "aanimaara": 162
+ },
+ {
+  "etunimi": "Seppo",
+  "sukunimi": "Katila",
+  "puolue": "KOK",
+  "aanimaara": 91
+ },
+ {
+  "etunimi": "Seppo",
+  "sukunimi": "Riihikoski",
+  "puolue": "VAS",
+  "aanimaara": 76
+ },
+ {
+  "etunimi": "Simo",
+  "sukunimi": "Palom\u00c3\u00a4ki",
+  "puolue": "KD",
+  "aanimaara": 65
+ },
+ {
+  "etunimi": "Sirkka",
+  "sukunimi": "Penttil\u00c3\u00a4",
+  "puolue": "SDP",
+  "aanimaara": 127
+ },
+ {
+  "etunimi": "Sirkku",
+  "sukunimi": "Hietanen",
+  "puolue": "KESK",
+  "aanimaara": 138
+ },
+ {
+  "etunimi": "Sirpa",
+  "sukunimi": "Syrj\u00c3\u00a4l\u00c3\u00a4",
+  "puolue": "SDP",
+  "aanimaara": 91
+ },
+ {
+  "etunimi": "Sirpa",
+  "sukunimi": "Ollila",
+  "puolue": "VIHR",
+  "aanimaara": 8
+ },
+ {
+  "etunimi": "Sisko",
+  "sukunimi": "Kuoppala",
+  "puolue": "KOK",
+  "aanimaara": 57
+ },
+ {
+  "etunimi": "Suoku",
+  "sukunimi": "Sir\u00c3\u00a4n",
+  "puolue": "VIHR",
+  "aanimaara": 84
+ },
+ {
+  "etunimi": "Susanna",
+  "sukunimi": "Henttunen",
+  "puolue": "VAS",
+  "aanimaara": 42
+ },
+ {
+  "etunimi": "Taisto",
+  "sukunimi": "Haapaniemi",
+  "puolue": "VAS",
+  "aanimaara": 15
+ },
+ {
+  "etunimi": "Taneli",
+  "sukunimi": "Tiilikainen",
+  "puolue": "SDP",
+  "aanimaara": 33
+ },
+ {
+  "etunimi": "Tapani",
+  "sukunimi": "Harju",
+  "puolue": "KESK",
+  "aanimaara": 102
+ },
+ {
+  "etunimi": "Tapio",
+  "sukunimi": "Prusti",
+  "puolue": "PS",
+  "aanimaara": 48
+ },
+ {
+  "etunimi": "Tarmo",
+  "sukunimi": "S\u00c3\u00a4rkel\u00c3\u00a4",
+  "puolue": "SDP",
+  "aanimaara": 31
+ },
+ {
+  "etunimi": "Tatu",
+  "sukunimi": "Latvatalo",
+  "puolue": "KESK",
+  "aanimaara": 97
+ },
+ {
+  "etunimi": "Terhi",
+  "sukunimi": "Per\u00c3\u00a4l\u00c3\u00a4",
+  "puolue": "KESK",
+  "aanimaara": 43
+ },
+ {
+  "etunimi": "Terho",
+  "sukunimi": "Kankaanp\u00c3\u00a4\u00c3\u00a4",
+  "puolue": "SDP",
+  "aanimaara": 50
+ },
+ {
+  "etunimi": "Tero",
+  "sukunimi": "Juonoja",
+  "puolue": "KOK",
+  "aanimaara": 177
+ },
+ {
+  "etunimi": "Terttu",
+  "sukunimi": "Vapalahti",
+  "puolue": "SSP",
+  "aanimaara": 28
+ },
+ {
+  "etunimi": "Tiina",
+  "sukunimi": "Per\u00c3\u00a4",
+  "puolue": "KOK",
+  "aanimaara": 247
+ },
+ {
+  "etunimi": "Timo",
+  "sukunimi": "Paavola",
+  "puolue": "KESK",
+  "aanimaara": 173
+ },
+ {
+  "etunimi": "Timo",
+  "sukunimi": "Rajala",
+  "puolue": "KESK",
+  "aanimaara": 43
+ },
+ {
+  "etunimi": "Timo",
+  "sukunimi": "Nyrhinen",
+  "puolue": "SDP",
+  "aanimaara": 12
+ },
+ {
+  "etunimi": "Tomi",
+  "sukunimi": "Savunen",
+  "puolue": "KESK",
+  "aanimaara": 49
+ },
+ {
+  "etunimi": "Tsui-Shan",
+  "sukunimi": "Tu",
+  "puolue": "KESK",
+  "aanimaara": 14
+ },
+ {
+  "etunimi": "Tuomo",
+  "sukunimi": "Lehtim\u00c3\u00a4ki",
+  "puolue": "KOK",
+  "aanimaara": 51
+ },
+ {
+  "etunimi": "Tuula",
+  "sukunimi": "Salo",
+  "puolue": "SDP",
+  "aanimaara": 87
+ },
+ {
+  "etunimi": "Tuula",
+  "sukunimi": "P\u00c3\u00a4ntinen",
+  "puolue": "KESK",
+  "aanimaara": 32
+ },
+ {
+  "etunimi": "Ulla",
+  "sukunimi": "Laakso",
+  "puolue": "KESK",
+  "aanimaara": 63
+ },
+ {
+  "etunimi": "Valma",
+  "sukunimi": "Latva-M\u00c3\u00a4enp\u00c3\u00a4\u00c3\u00a4",
+  "puolue": "SSP",
+  "aanimaara": 26
+ },
+ {
+  "etunimi": "Veikko",
+  "sukunimi": "Rekunen",
+  "puolue": "KOK",
+  "aanimaara": 113
+ },
+ {
+  "etunimi": "Veikko",
+  "sukunimi": "Kaura",
+  "puolue": "PS",
+  "aanimaara": 28
+ },
+ {
+  "etunimi": "Veli-Jussi",
+  "sukunimi": "Simppala",
+  "puolue": "KOK",
+  "aanimaara": 76
+ },
+ {
+  "etunimi": "Veli-Matti",
+  "sukunimi": "Martikkala",
+  "puolue": "KESK",
+  "aanimaara": 133
+ },
+ {
+  "etunimi": "Wilhelmiina",
+  "sukunimi": "Kukkamo",
+  "puolue": "KOK",
+  "aanimaara": 57
+ },
+ {
+  "etunimi": "Ville",
+  "sukunimi": "Wahlroos",
+  "puolue": "VIHR",
+  "aanimaara": 94
+ },
+ {
+  "etunimi": "Virpi",
+  "sukunimi": "Lammassaari",
+  "puolue": "KESK",
+  "aanimaara": 31
+ },
+ {
+  "etunimi": "Vote",
+  "sukunimi": "Kumpula",
+  "puolue": "SDP",
+  "aanimaara": 8
+ },
+ {
+  "etunimi": "V\u00c3\u00a4in\u00c3\u00a4",
+  "sukunimi": "Kuoppala",
+  "puolue": "KOK",
+  "aanimaara": 143
+ },
+ {
+  "etunimi": "Yrj\u00c3\u00a4n\u00c3\u00a4",
+  "sukunimi": "Elonheimo",
+  "puolue": "KOK",
+  "aanimaara": 70
+ }
+]

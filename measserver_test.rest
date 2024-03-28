@@ -1,0 +1,8 @@
+POST http://localhost:5000/newmeas
+Content-Type: application/json
+
+{
+    "field1" : 1054,
+    "field2" : 253,
+    "field3" : 35
+}

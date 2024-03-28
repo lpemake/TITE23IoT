@@ -1,0 +1,34 @@
+<html>
+  <head>
+    <script type="text/javascript">
+        fetch('http://localhost:5000/api/meas')
+            .then((response) => {
+            return response.json();
+        })
+        .then((dataFromServer) => {
+          //console.log(dataFromServer)
+
+          let temp = "";
+          
+          for (const row of dataFromServer) {
+            //console.log(row)
+            temp += "<tr>"
+                
+            temp += "<td>" + row["field1"] + "</td>"
+            temp += "<td>" + row["field2"] + "</td>"
+            temp += "<td>" + row["field3"] + "</td>"
+            
+            temp += "</tr>"
+          }
+          document.getElementById("data").innerHTML = temp;
+
+        })
+    </script>
+  </head>
+  <body>
+    <table>
+        <tbody id="data"></tbody>
+    </table>
+  </body>
+</html>
+
