@@ -10,10 +10,37 @@ measurements = []
 def show_line():
     return render_template('linechart.html')
 
+# näytetään HTML-sivu, jossa on pie chart
+@app.route('/pie')
+def show_pie():
+    return render_template('pie.html')
+
 # näytetään data HTML-sivulla
 @app.route('/')
 def show_test():
     return render_template('testi.html')
+
+@app.route('/api/distribution')
+def distribution():
+    dist = []
+    dist.append(['>4', 0])
+    dist.append(['0...4', 0])
+    dist.append(['-4...0', 0])
+    dist.append(['<-4', 0])
+    for row in measurements:
+        lampotila = row['field2']
+        if lampotila < -4:
+            dist[3][1] += 1
+        elif lampotila < 0:
+            dist[2][1] += 1
+        elif lampotila < 4:
+            dist[1][1] += 1
+        else:
+            dist[0][1] += 1
+    # muutetaan json-muotoon
+    s = json.dumps(dist)
+    resp = Response(s, status=200, mimetype='application/json')
+    return(resp)
 
 # palautetaan mittaukset json-muodossa
 @app.route('/api/meas2')

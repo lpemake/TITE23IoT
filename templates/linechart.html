@@ -3,8 +3,13 @@
       <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
       <script type="text/javascript">
         google.charts.load('current', {'packages':['corechart','table']});
-        google.charts.setOnLoadCallback(drawChartAndTable);
+        google.charts.setOnLoadCallback(init);
   
+        function init() {
+          drawChartAndTable(); // initial call
+          setInterval(drawChartAndTable, 1000);
+        }
+
         function drawChartAndTable() {
 
           fetch('http://localhost:5000/api/meas2')

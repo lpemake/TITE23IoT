@@ -1,0 +1,39 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {'packages':['corechart']});
+      google.charts.setOnLoadCallback(drawChart);
+
+      function drawChart() {
+
+        fetch('http://localhost:5000/api/distribution')
+            .then((response) => {
+                return response.json();
+            })
+            .then((dataFromServer) => {
+                console.log(dataFromServer) 
+
+                var datatable = new google.visualization.DataTable();
+                datatable.addColumn('string', 'id');
+                datatable.addColumn('number', 'value');
+                datatable.addRows(dataFromServer)
+
+                var options = {
+                title: 'Lämpötilajakauma'
+                };
+
+                var chart = new google.visualization.PieChart(document.getElementById('piechart'));
+                chart.draw(datatable, options);
+
+                var histogram = new google.visualization.Histogram(document.getElementById('histogram_div'));
+                histogram.draw(datatable, options);                
+            })
+      }
+    </script>
+  </head>
+  <body>
+    <div id="piechart" style="width: 900px; height: 500px;"></div>
+    <div id="histogram_div" style="width: 900px; height: 500px;"></div>
+  </body>
+</html>
