@@ -79,8 +79,9 @@ def showmeas():
 def newmeas():
     # poimitaan mittaus HTTP POST -viestistä
     meas = request.get_json()
-    # lisätään mittaus listaan
-    measurements.append(meas)
+    # lisätään mittaus listan alkuun
+    # measurements.append(meas)
+    measurements.insert(0, meas)
     meas_json = json.dumps(meas)
     # palautetaan lisätty mittaus asiakkaalle
     # (REST API haluaa näin)
